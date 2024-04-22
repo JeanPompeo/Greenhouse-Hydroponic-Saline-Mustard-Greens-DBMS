@@ -2,7 +2,7 @@
 A database management strategy for an experiment where mustard greens were grown hydroponically in saline nutrient solutions in a greenhouse in Citra, FL
 
 # Documents Included
-- "GH_MustardGreens_Spreadsheet" : A .xlsx file for microsoft excell that includes all of the spreadsheets needed for data collection
+- "GH_MustardGreens_Spreadsheet.xlsx" : A microsoft excel file that includes all of the spreadsheets needed for data collection
   
 - "Data_Collection_Files" : A folder containing .csv files for each spreadsheet of interest
     - "README.csv" :	Title, Project Description, Date Range, Location, Table of Contents, Credits, and License information	NA
