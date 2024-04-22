@@ -1,0 +1,4 @@
+* CANOPY DATA,,,,,,,
+Canopy Data identifier,Experiment identifier,Canopy Sensor system identifier,Date of reading,Time of reading,Air Temperature,Relative Humidify,Carbon Dioxide Concentration
+number,number,number,yyyy/mm/dd,hh:mm:ss,°C,%,ppm
+ID.CanopyData,ID.Experiment,ID.CanopySensor,Date,Time,Air_Temp,RH,CO2
