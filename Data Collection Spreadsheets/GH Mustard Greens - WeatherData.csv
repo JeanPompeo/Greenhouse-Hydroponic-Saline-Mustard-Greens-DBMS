@@ -1,4 +1,0 @@
-* WEATHER DATA,,,,,,,,,,,,,
-Weather Data identifier,Experiment identifier,Weather Sensor system identifier,Date of reading,Time of reading,Air Temperature,Relative Humidify,Carbon Dioxide Concentration,Photoperiod,Daily Light Integral,Extended Photosynthetically Active Radiation,Dew Point,Vapor Pressure Deficit,Atmospheric Pressure
-number,number,number,yyyy/mm/dd,hh:mm:ss,°C,%,ppm,hours,mol m-2 d-1,µmol m-2 s-1,°C,kPa,kPa
-ID.WeatherData,ID.Experiment,ID.WeatherSensor,Date,Time,Air_Temp,RH,CO2,PP,DLI,ePAR,DP,VPD,Atm

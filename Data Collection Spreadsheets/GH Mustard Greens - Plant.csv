@@ -1,7 +1,0 @@
-* PLANT,,,,,,,,,,,,,,
-Plant identifier,Experiment identifier,Cultivar identifier,Date when plant was harvested for measurements,Total age of plant in days,Shoot Fresh Weight,"Width of Plant 
-(Widest width from leaf tip tp leaf tip)","Height of Plant 
-(Top of substrate to highest leaf tip)",Total area of plant leaves,"Counted number of leaves per plant 
-(Leaves > 0.5cm) ",Weight of plant stem without leaves,Shoot Dry Weight,Amount of chlorophyl per leaf area,"Rate of CO2 entering, or water vapor exiting through leaf stomata",Ratio of Sodium to Potassium in Leaf Cytosol
-number,number,number,date,days,g,cm,cm,cm2,number,g,g,µmol m−2,mmol m−2 s−1),number
-ID.Plant,ID.Experiment,ID.Cultivar,Harvest_Date,Plant_Age,SFW,Width,Height,Leaf_Area,Leaf_Number,Stem_Weight,SDW,Chlorophyl,Stomatal_Conductivity,Na/K Ratio

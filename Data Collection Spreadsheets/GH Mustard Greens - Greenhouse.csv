@@ -1,4 +1,0 @@
-* GREENHOUSE,,,,,,
-Greenhouse identifier,Country where located,State where located,City where located,Global Positioning System Coordinates,Cooling system used for environmental control,"Description of greenhouse (Structure, Panels, etc.)"
-number,text,text,text,text,text,text
-ID.Greenhouse,Country,State,City,GPS,Cooling_System,Description

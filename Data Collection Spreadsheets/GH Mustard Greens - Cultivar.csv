@@ -1,5 +1,0 @@
-* CULTIVAR,,,,,,,,
-Cultivar identifier,Plant name,Plant Latin Name,Supplier of seed,Date when seed was purchased,Age of seed in number of years,"Rating of salt tolerance 
-(Low - High)",Description of leaf color,Number of days from seed to maturity
-number,text,text,text,yyyy-mm-dd,years,text,text,days
-ID.Cultivar,Name,Latin_Name,Seed_Source,Purchase_Date,Seed_Age,Salt_Tolerance,Color,Days_to_Maturity
