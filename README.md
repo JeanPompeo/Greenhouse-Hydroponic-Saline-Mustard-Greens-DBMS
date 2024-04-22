@@ -23,5 +23,6 @@ A database management strategy for an experiment where mustard greens were grown
     - "Manufacturer.csv" :	Description of the sensor manufacturer	(5 Variables)
 
 - Diagrams
-    - "GH_MustardGreens_Conceptual_Model.png" : An image file detailing the conceptual model of the database management strategy employed
+    - "GH_MustardGreens_EER_Conceptual_Model.png" : An E file detailing the conceptual model of the database management strategy employed
     - "GH_MustardGreens_Logical_Model.png" : An image file detailing the logical model of the database management strategy employed
+    - "GH_Mustard_Experiment_Diagram.png" : An image file showing 
