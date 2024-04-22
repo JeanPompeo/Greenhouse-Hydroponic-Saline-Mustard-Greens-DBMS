@@ -1,0 +1,4 @@
+* WEATHER SENSOR,,,,,,
+Weather Sensor identifier,Name of sensor system,Air Temperature Sensor identifier,Relative Humidity Sensor identifier,CO2 Sensor identifier,Atmospheric Pressure Sensor identifier,Extended Photosynthetically active Radiation sensor identifier
+number,text,text,text,text,text,text
+ID.WeatherSensor,System_Name,ID.Sensor,ID.Sensor,ID.Sensor,ID.Sensor,ID.Sensor

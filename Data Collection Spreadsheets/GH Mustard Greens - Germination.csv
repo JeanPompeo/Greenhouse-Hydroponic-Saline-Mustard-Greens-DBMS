@@ -1,0 +1,4 @@
+* GERMINATION,,,,,,,,,,,
+Germination identifier,Experiment identifier,Date when seeds were first germinated (Exposed to water) ,Number of days seeds were in germination conditions,Daily Light Integral,Light intensity for seed germination,Average Air Temperature,Electrical Conductivity,pH,Salinity Concentration Treatment,Substrate used for seed germination,Source of water used for irrigation
+number,number,yyyy-mm-dd,days,mol m-2 d-1,µmol m-2 s-1,°C,mS/cm,number,text,text,text
+ID.Germination,ID.Experiment,Seed_Date,Duration,DLI,Light_Intensity,Air_Temp,EC,pH,Salinity,Substrate,Water_Source

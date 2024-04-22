@@ -1,0 +1,4 @@
+* Irrigation Data,,,,,,,,,,,,,,,,,
+Irrigation Data identifier,Experiment identifier,Irrigation Sensor system identifier,Date of reading,Time of reading,pH of nutrient solution,Electrical Conductivity of nutrient solution,Dissolved Oxygen of nutrient solution,Oxidation Reduction Potential of nutrient solution,Nutrient Solution Temperature,Total amount of Water used per NFT system,Total amount of Nutrient Concentrate used per NFT system,ON/OFF status of dosing pump,ON/OFF status of dosing pump,ON/OFF status of dosing pump,ON/OFF status of timer switch,ON/OFF status of timer switch,ON/OFF status of timer switch
+number,number,number,yyyy/mm/dd,hh:mm:ss,number,mS/cm,ppm,mV,°C,L,mL,boolean,boolean,boolean,boolean,boolean,boolean
+ID.IrrigationData,ID.Experiment,ID.IrrigationSensor,Date,Time,pH,EC,DO,ORP,NS_Temp,Water_Meter,Flow_Meter,Pump_1,Pump_2,Pump_3,Timer_1,Timer_2,Timer_3
