@@ -1,7 +1,7 @@
 # Greenhouse-Hydroponic-Saline-Mustard-Greens-DBMS
 A database management strategy for an experiment where mustard greens were grown hydroponically in saline nutrient solutions in a greenhouse in Citra, FL
 
-# Documents Included
+# Included
 - "GH_MustardGreens_Spreadsheet.xlsx" : A microsoft excel file that includes all of the spreadsheets needed for data collection
   
 - "Data_Collection_Files" : A folder containing .csv files for each spreadsheet of interest
@@ -26,3 +26,9 @@ A database management strategy for an experiment where mustard greens were grown
     - "GH_MustardGreens_EER_Conceptual_Model.png" : An EER diagram of the conceptual model of the database management strategy employed
     - "GH_MustardGreens_Logical_Model.png" : An EER diagram of the logical model of the database management strategy employed
     - "GH_Mustard_Experiment_Diagram.png" : A visualization of the greenhouse and experimental conditions 
+
+- Links
+    - Google Sheets : Data Spreadsheets (https://docs.google.com/spreadsheets/d/1-9CEM-YqPxBgjefBYd54-k1I2M0O3DiY46ZNewcNXB4/edit?usp=sharing)
+    - Github : Repository (https://github.com/JeanPompeo/Greenhouse-Hydroponic-Saline-Mustard-Greens-DBMS)
+    - Kaggle : Data Spreadsheets (https://www.kaggle.com/datasets/jeanpompeo/gh-mustardgreens-data-spreadsheets)
+    - Kaggle : Data Analysis (https://www.kaggle.com/code/jeanpompeo/greenhouse-mustard-greens-data-analysis/)
